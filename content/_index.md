@@ -12,5 +12,5 @@ heroStyle: background
   breakLines=true
   loop=false
 >}}
-Journalist | Communication Strategy | Research
+Journalist | Communication Strategist | Researcher 
 {{< /typeit >}}

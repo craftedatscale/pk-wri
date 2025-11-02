@@ -10,6 +10,11 @@ heroStyle: background
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 ---
+
+{{< alert icon="wand-magic-sparkles" cardColor="#000000ff" iconColor="#f2ff00ff" textColor="#bfbfbfff" >}}
+This article was first published on [**Mongabay India**](https://india.mongabay.com/) - read it [**here**](https://india.mongabay.com/2025/02/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/).
+{{< /alert >}}
+
 ## Key Ideas
 - India’s fisherwomen face not only economic instability but also the shrinking availability of open spaces to carry out value-added fishing activities.
 - Women’s employment is given limited priority in India’s draft blue economy policy framework.

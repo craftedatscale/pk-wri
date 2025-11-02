@@ -11,6 +11,10 @@ layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 ---
 
+{{< alert icon="wand-magic-sparkles" cardColor="#000000ff" iconColor="#f2ff00ff" textColor="#bfbfbfff" >}}
+This article was first published on [**Mongabay India**](https://india.mongabay.com/) - read it [**here**](https://india.mongabay.com/2024/09/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/).
+{{< /alert >}}
+
 ## Key Ideas
 - Plasticulture, the application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today.
 - Agricultural plastics are single-use or short-lived, and have been found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment.

@@ -8,7 +8,7 @@ invertPagination: true
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: false
-layoutBackgroundBlur: false
+layoutBackgroundBlur: true
 ---
 
 ## Key Ideas

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goa on Nautilus Media</title>
-    <link>http://192.168.0.247:1313/tags/goa/</link>
+    <link>http://100.101.252.59:1313/tags/goa/</link>
     <description>Recent content in Goa on Nautilus Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/tags/goa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://100.101.252.59:1313/tags/goa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fisherwomen ride the rough waves while India’s blue economy blooms</title>
-      <link>http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</link>
+      <link>http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</guid>
-      <description>xx</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/feature-Shaila-and-women-of-Cacra.jpg" />
+      <guid>http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</guid>
+      <description>India’s fisherwomen face not only economic instability but also the shrinking availability of open spaces to carry out value-added fishing activities Women’s employment is given limited priority in India’s draft blue economy policy framework.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/feature-Shaila-and-women-of-Cacra.jpg" />
     </item>
     
   </channel>

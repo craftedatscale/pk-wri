@@ -1,14 +1,29 @@
 ---
 title: "Agriculture has a plastic problem and it’s threatening the future of food"
-description: "xx"
+description: "The application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today.Single-use or short-lived, they are found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment."
+summary: "The application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today.Single-use or short-lived, they are found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment."
 date: 2024-09-06
 draft: false
-summary: "xx"
 invertPagination: true
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
+showAuthorBottom: true
+showTaxonomies: true
+showSummary: true
+
+
+categories:
+- Commissioned Pieces
+- MongaBay
+- Reportage
+
+tags:
+- Agriculture
+- Plastics
+
+
 ---
 
 {{< alert icon="wand-magic-sparkles" cardColor="#000000ff" iconColor="#f2ff00ff" textColor="#bfbfbfff" >}}
@@ -125,3 +140,5 @@ A sustainable solution is in linking agricultural intensification with ecosystem
 **Banner image**: Strawberries grown in Germany using plastic mulching. Plastic has become integral to food production, processing, marketing, and consumption globally with its application extended to mulch films, shade nets, polyhouses, irrigation pipes, pond liners, and storage silos. Image courtesy Fischer.H via Wikimedia Commons ([CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/5/57/Erdbeeren_IMG_9997.jpg)).
 
 **Editor**: [Arathi Menon](https://india.mongabay.com/author/arathimenon/)
+
+{{< youtubeLite id="XjlV236RKU" label="test" >}}

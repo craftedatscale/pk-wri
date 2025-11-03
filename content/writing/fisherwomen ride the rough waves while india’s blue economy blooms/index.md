@@ -1,14 +1,18 @@
 ---
 title: "Fisherwomen ride the rough waves while India’s blue economy blooms"
 description: "xx"
+# summary: "Plasticulture, the application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today. Agricultural plastics are single-use or short-lived, and have been found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment. Experts suggest that it is time to recognise the chemical and ecotoxicological aspects of agriplastics and developed more sustainable alternatives."
+
+summary: "India’s fisherwomen face not only economic instability but also the shrinking availability of open spaces to carry out value-added fishing activities Women’s employment is given limited priority in India’s draft blue economy policy framework."
 date: 2025-03-05
 draft: false
-summary: "xx"
 invertPagination: true
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
+showTaxonomies: true
+showSummary: true
 
 categories:
 - MongaBay

@@ -2,41 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nautilus Media</title>
-    <link>http://192.168.0.247:1313/tags/</link>
+    <link>http://100.101.252.59:1313/tags/</link>
     <description>Recent content in Tags on Nautilus Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://100.101.252.59:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blue Economy</title>
-      <link>http://192.168.0.247:1313/tags/blue-economy/</link>
+      <link>http://100.101.252.59:1313/tags/blue-economy/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://192.168.0.247:1313/tags/blue-economy/</guid>
+      <guid>http://100.101.252.59:1313/tags/blue-economy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Goa</title>
-      <link>http://192.168.0.247:1313/tags/goa/</link>
+      <link>http://100.101.252.59:1313/tags/goa/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://192.168.0.247:1313/tags/goa/</guid>
+      <guid>http://100.101.252.59:1313/tags/goa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Women&#39;s Work</title>
-      <link>http://192.168.0.247:1313/tags/womens-work/</link>
+      <link>http://100.101.252.59:1313/tags/womens-work/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://192.168.0.247:1313/tags/womens-work/</guid>
+      <guid>http://100.101.252.59:1313/tags/womens-work/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agriculture</title>
+      <link>http://100.101.252.59:1313/tags/agriculture/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://100.101.252.59:1313/tags/agriculture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plastics</title>
+      <link>http://100.101.252.59:1313/tags/plastics/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://100.101.252.59:1313/tags/plastics/</guid>
       <description></description>
       
     </item>

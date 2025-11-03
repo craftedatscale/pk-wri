@@ -9,7 +9,37 @@
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <atom:link href="http://192.168.0.247:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blue Economy</title>
+      <link>http://192.168.0.247:1313/tags/blue-economy/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://192.168.0.247:1313/tags/blue-economy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Goa</title>
+      <link>http://192.168.0.247:1313/tags/goa/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://192.168.0.247:1313/tags/goa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Women&#39;s Work</title>
+      <link>http://192.168.0.247:1313/tags/womens-work/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://192.168.0.247:1313/tags/womens-work/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

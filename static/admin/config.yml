@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: <craftedatscale><kowshik-priyamvada-01> # Replace with your GitHub repository name
+  branch: main # Or your default branch
+
+media_folder: "static/uploads" # Folder for uploaded media files
+public_folder: "/uploads"
+
+collections:
+  - name: "writing"
+    label: "Writing"
+    folder: "content/writing" # Path where Markdown files are stored
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Body", name: "body", widget: "markdown" }

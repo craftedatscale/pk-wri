@@ -9,6 +9,17 @@ showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
+
+categories:
+- MongaBay
+- Commissioned Pieces
+- Reportage
+
+tags:
+- Goa
+- Blue Economy
+- Women's Work
+
 ---
 
 {{< alert icon="wand-magic-sparkles" cardColor="#000000ff" iconColor="#f2ff00ff" textColor="#bfbfbfff" >}}

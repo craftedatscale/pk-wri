@@ -13,6 +13,7 @@ layoutBackgroundHeaderSpace: false
 layoutBackgroundBlur: true
 showTaxonomies: true
 showSummary: true
+showAuthor: true
 
 categories:
 - MongaBay

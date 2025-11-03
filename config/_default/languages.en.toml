@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nautilus Media"
+title = "Nautilus Media, by Priyamvada Kowshik"
 
 [params]
   displayName = "EN"

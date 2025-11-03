@@ -140,5 +140,3 @@ A sustainable solution is in linking agricultural intensification with ecosystem
 **Banner image**: Strawberries grown in Germany using plastic mulching. Plastic has become integral to food production, processing, marketing, and consumption globally with its application extended to mulch films, shade nets, polyhouses, irrigation pipes, pond liners, and storage silos. Image courtesy Fischer.H via Wikimedia Commons ([CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/5/57/Erdbeeren_IMG_9997.jpg)).
 
 **Editor**: [Arathi Menon](https://india.mongabay.com/author/arathimenon/)
-
-{{< youtubeLite id="XjlV236RKU" label="test" >}}

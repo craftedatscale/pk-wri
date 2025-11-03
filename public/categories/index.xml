@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Nautilus Media, by Priyamvada Kowshik</title>
-    <link>http://100.101.252.59:1313/categories/</link>
+    <link>http://192.168.0.247:1313/categories/</link>
     <description>Recent content in Categories on Nautilus Media, by Priyamvada Kowshik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://100.101.252.59:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Commissioned Pieces</title>
-      <link>http://100.101.252.59:1313/categories/commissioned-pieces/</link>
+      <link>http://192.168.0.247:1313/categories/commissioned-pieces/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/categories/commissioned-pieces/</guid>
+      <guid>http://192.168.0.247:1313/categories/commissioned-pieces/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MongaBay</title>
-      <link>http://100.101.252.59:1313/categories/mongabay/</link>
+      <link>http://192.168.0.247:1313/categories/mongabay/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/categories/mongabay/</guid>
+      <guid>http://192.168.0.247:1313/categories/mongabay/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reportage</title>
-      <link>http://100.101.252.59:1313/categories/reportage/</link>
+      <link>http://192.168.0.247:1313/categories/reportage/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/categories/reportage/</guid>
+      <guid>http://192.168.0.247:1313/categories/reportage/</guid>
       <description></description>
       
     </item>

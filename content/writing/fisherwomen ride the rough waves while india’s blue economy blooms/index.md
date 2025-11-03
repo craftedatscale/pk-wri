@@ -121,3 +121,5 @@ Experts says that this requires viewing the issue through social, economic and i
 **Banner image**: Fisherwomen (including D’Mello) at work in Carca village. While India is one of the few countries to publish a draft Blue Economy policy framework, there is a long way to go. Experts are highlighting the limited prioritisation of women’s employment in the framework. **Image by Priyamvada Kowshik.**
 
 **Editor**: [Arathi Menon](https://india.mongabay.com/author/arathimenon/)
+
+{{< youtubeLite id="Ko7MZX0oegM" label="test" >}}

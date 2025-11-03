@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agriculture on Nautilus Media, by Priyamvada Kowshik</title>
-    <link>http://100.101.252.59:1313/tags/agriculture/</link>
+    <link>http://192.168.0.247:1313/tags/agriculture/</link>
     <description>Recent content in Agriculture on Nautilus Media, by Priyamvada Kowshik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://100.101.252.59:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Agriculture has a plastic problem and it’s threatening the future of food</title>
-      <link>http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</link>
+      <link>http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</guid>
+      <guid>http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</guid>
       <description>The application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today.Single-use or short-lived, they are found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/feature-1024px-Erdbeeren_IMG_9997.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/feature-1024px-Erdbeeren_IMG_9997.jpg" />
     </item>
     
   </channel>

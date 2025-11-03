@@ -11,37 +11,37 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-   name = "🔭 Projects"
+   name = "Projects 🔭"
    pageRef = "projects"
    weight = 10
 
 [[main]]
    name = "Proj 1"
-   parent = "🔭 Projects"
+   parent = "Projects 🔭"
    weight = 11
 
 [[main]]
    name = "Proj 2"
-   parent = "🔭 Projects"
+   parent = "Projects 🔭"
    weight = 12
 
 [[main]]
-   name = "✍🏼Writing"
+   name = "Writing ✍🏻"
    pageRef = "writing"
    weight = 20
 
 [[main]]
-   name = "📷 Photo Essays"
+   name = "Photo Essays 📷"
    pageRef = "photo-essays"
    weight = 30
 
 [[main]]
-   name = "👩🏻About"
+   name = "About 👩🏻"
    pageRef = "about"
    weight = 50
 
 [[main]]
-   name = "📩 Contact"
+   name = "Contact 📩"
    pageRef = "contact"
    weight = 60
 

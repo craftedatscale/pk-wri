@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commissioned Pieces on Nautilus Media, by Priyamvada Kowshik</title>
-    <link>http://100.101.252.59:1313/categories/commissioned-pieces/</link>
+    <link>http://192.168.0.247:1313/categories/commissioned-pieces/</link>
     <description>Recent content in Commissioned Pieces on Nautilus Media, by Priyamvada Kowshik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
     <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
     <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://100.101.252.59:1313/categories/commissioned-pieces/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.0.247:1313/categories/commissioned-pieces/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fisherwomen ride the rough waves while India’s blue economy blooms</title>
-      <link>http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</link>
+      <link>http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</guid>
+      <guid>http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/</guid>
       <description>India’s fisherwomen face not only economic instability but also the shrinking availability of open spaces to carry out value-added fishing activities Women’s employment is given limited priority in India’s draft blue economy policy framework.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://100.101.252.59:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/feature-Shaila-and-women-of-Cacra.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/writing/fisherwomen-ride-the-rough-waves-while-indias-blue-economy-blooms/feature-Shaila-and-women-of-Cacra.jpg" />
     </item>
     
     <item>
       <title>Agriculture has a plastic problem and it’s threatening the future of food</title>
-      <link>http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</link>
+      <link>http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
-      <guid>http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</guid>
+      <guid>http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/</guid>
       <description>The application of synthetic polymer-based technologies in agriculture, has found wide ranging uses, making it an integral part of food production today.Single-use or short-lived, they are found to be a major source of micro and nanoplastics in the soil, which can have a long term impact on our health and environment.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://100.101.252.59:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/feature-1024px-Erdbeeren_IMG_9997.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/writing/agriculture-has-a-plastic-problem-and-its-threatening-the-future-of-food/feature-1024px-Erdbeeren_IMG_9997.jpg" />
     </item>
     
   </channel>

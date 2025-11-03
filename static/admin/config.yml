@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: <craftedatscale><kowshik-priyamvada-01> # Replace with your GitHub repository name
+  repo: craftedatscale/kowshik-priyamvada-01 # Replace with your GitHub repository name
   branch: main # Or your default branch
 
 media_folder: "static/uploads" # Folder for uploaded media files

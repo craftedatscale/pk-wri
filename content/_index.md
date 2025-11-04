@@ -1,6 +1,6 @@
 ---
-title: "custom frontpage"
-description: "This is a demo of adding content to the homepage."
+title: "Nautilus Media, by Priyamvada Kowshik"
+description: ""
 showHero: true
 heroStyle: background
 ---

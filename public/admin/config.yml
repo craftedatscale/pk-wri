@@ -1,7 +1,7 @@
 # Use DecapBridge PKCE auth (required)
 backend:
   name: git-gateway
-  repo: craftedatscale/kowshik-priyamvada-01
+  repo: craftedatscale/pk-wri
   branch: main
   auth_type: pkce
   base_url: https://auth.decapbridge.com
@@ -29,27 +29,56 @@ auth:
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 
 # Add site links in Decap CMS (optional)
-site_url: https://priyamvada.kowshik.in
+site_url: https://pk-wri.kowshik.in
 
-# backend:
-#  name: github
-#  repo: craftedatscale/kowshik-priyamvada-01 # Replace with your GitHub repository name
-#  branch: main # Or your default branch
+publish_mode: editorial_workflow
+media_folder: assets/uploads
 
-#media_folder: "static/uploads" # Folder for uploaded media files
-#public_folder: "/uploads"
-#
-#collections:
-#  - name: "writing"
-#    label: "Writing"
-#    folder: "content/writing" # Path where Markdown files are stored
-#    create: true
-#    slug: "{{slug}}"
-#    fields:
-#      - { label: "Title", name: "title", widget: "string" }
-#      - { label: "Description", name: "description", widget: "text" }
-#      - { label: "Date", name: "date", widget: "datetime" }
-#      - { label: "Categories", name: "categories", widget: "list" }
-#      - { label: "Tags", name: "tags", widget: "list" }
-#      - { label: "Draft", name: "draft", widget: "boolean" }
-#      - { label: "Body", name: "body", widget: "markdown" }
+collections:
+  - name: 'projects'
+    label: 'Projects'
+    label_singular: 'Project'
+    description: >
+      Commissioned work, with individual or multiple outputs.
+    folder: '/content/projects'
+    create: true
+    editor:
+      visualEditing: true
+    sortable_fields:
+      - title
+        #      - { field: date, default_sort: desc }
+      - draft
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: 'This is post #'
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD HH:mm',
+          default: '{{now}}',
+        }
+      - label: 'Cover Image'
+        name: 'image'
+        widget: 'image'
+        required: false
+        tagname: ''
+
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }

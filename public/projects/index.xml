@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nautilus Media, by Priyamvada Kowshik</title>
+    <link>http://192.168.0.247:1313/projects/</link>
+    <description>Recent content in Projects on Nautilus Media, by Priyamvada Kowshik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>pkowshik@gmail.com (Priyamvada Kowshik)</managingEditor>
+    <webMaster>pkowshik@gmail.com (Priyamvada Kowshik)</webMaster>
+    <copyright>**Priyamvada Kowshik** © 2025, and [**Crafted at Scale**](https://instagram.com/craftedatscale)</copyright>
+    <atom:link href="http://192.168.0.247:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>project33</title>
+      <link>http://192.168.0.247:1313/projects/project33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>pkowshik@gmail.com (Priyamvada Kowshik)</author>
+      <guid>http://192.168.0.247:1313/projects/project33/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

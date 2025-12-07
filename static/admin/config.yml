@@ -33,3 +33,29 @@ site_url: https://pk-wri.kowshik.in
 
 publish_mode: editorial_workflow
 media_folder: assets/uploads
+
+collections:
+  - name: 'projects'
+    label: 'Projects'
+    label_singular: 'Project'
+    description: >
+      Commissioned work, with individual or multiple outputs.
+    folder: '_projects'
+    create: true
+    editor:
+      visualEditing: true
+    sortable_fields:
+      - title
+      - { field: date, default_sort: desc }
+      - draft
+    view_filters:
+      - label: Posts With Index
+        field: title
+        pattern: 'This is post #'
+      - label: Posts Without Index
+        field: title
+        pattern: front matter post
+      - label: Drafts
+        field: draft
+        pattern: true
+

@@ -40,7 +40,7 @@ collections:
     label_singular: 'Project'
     description: >
       Commissioned work, with individual or multiple outputs.
-    folder: 'content/projects'
+    folder: '/content/projects'
     create: true
     editor:
       visualEditing: true

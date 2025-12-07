@@ -73,7 +73,6 @@ collections:
           name: 'date',
           widget: 'datetime',
           format: 'YYYY-MM-DD',
-          default: '{{now}}',
         }
       - label: 'Cover Image'
         name: 'image'

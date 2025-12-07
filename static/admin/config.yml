@@ -46,7 +46,7 @@ collections:
       visualEditing: true
     sortable_fields:
       - title
-      - { field: date, default_sort: desc }
+        #      - { field: date, default_sort: desc }
       - draft
     view_filters:
       - label: Posts With Index
